@@ -1,3 +1,3 @@
-from addition import add
+from algorithms import add
 
 print(str(add(10, 10)))
